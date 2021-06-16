@@ -1,0 +1,82 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "name": "Home",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MetaTitle": {
+      "type": "string"
+    },
+    "MetaDesc": {
+      "type": "string"
+    },
+    "HeroTitle1": {
+      "type": "string"
+    },
+    "HeroTitle2": {
+      "type": "string"
+    },
+    "HeroDesc": {
+      "type": "text"
+    },
+    "ReklamaTitle1": {
+      "type": "string"
+    },
+    "ReklamaTitle2": {
+      "type": "string"
+    },
+    "ReklamaDesc": {
+      "type": "text"
+    },
+    "FaqTitle1": {
+      "type": "string"
+    },
+    "FaqTitle2": {
+      "type": "string"
+    },
+    "FaqAnswer1": {
+      "type": "text"
+    },
+    "FaqAnswer2": {
+      "type": "text"
+    },
+    "FaqAnswer3": {
+      "type": "text"
+    },
+    "WhyUsTitle": {
+      "type": "string"
+    },
+    "WhyUsAnswer1": {
+      "type": "text"
+    },
+    "WhyUsAnswer2": {
+      "type": "text"
+    },
+    "WhyUsAnswer3": {
+      "type": "text"
+    },
+    "ContactTitle": {
+      "type": "string"
+    },
+    "ContactDesc": {
+      "type": "text"
+    },
+    "PhoneNumber": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "WhyUsTitle2": {
+      "type": "string"
+    }
+  }
+}
