@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/strony-www",
+      "handler": "strony-www.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/strony-www",
+      "handler": "strony-www.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/strony-www",
+      "handler": "strony-www.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

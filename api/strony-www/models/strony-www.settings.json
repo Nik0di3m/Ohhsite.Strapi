@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "strony_wwws",
+  "info": {
+    "name": "StronyWWW",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MetaTitle": {
+      "type": "string"
+    },
+    "MetaDescription": {
+      "type": "text"
+    },
+    "HeroTitle": {
+      "type": "string"
+    },
+    "HeroText": {
+      "type": "text"
+    }
+  }
+}
