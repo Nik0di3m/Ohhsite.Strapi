@@ -77,6 +77,27 @@
     },
     "Answer8Title": {
       "type": "string"
+    },
+    "Opis1": {
+      "type": "text"
+    },
+    "Opis2": {
+      "type": "text"
+    },
+    "Opis3": {
+      "type": "text"
+    },
+    "Opis4": {
+      "type": "text"
+    },
+    "Opis5": {
+      "type": "text"
+    },
+    "Opis6": {
+      "type": "text"
+    },
+    "Opis7": {
+      "type": "text"
     }
   }
 }
