@@ -23,6 +23,36 @@
     },
     "HeroText": {
       "type": "text"
+    },
+    "FaqTitle1": {
+      "type": "string"
+    },
+    "FaqTitle2": {
+      "type": "string"
+    },
+    "Answer1": {
+      "type": "text"
+    },
+    "Answer2": {
+      "type": "text"
+    },
+    "Answer3": {
+      "type": "text"
+    },
+    "Answer4": {
+      "type": "text"
+    },
+    "Answer5": {
+      "type": "text"
+    },
+    "Answer6": {
+      "type": "text"
+    },
+    "Answer7": {
+      "type": "text"
+    },
+    "Answer8": {
+      "type": "text"
     }
   }
 }
