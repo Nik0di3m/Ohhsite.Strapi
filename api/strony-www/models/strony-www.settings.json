@@ -53,6 +53,30 @@
     },
     "Answer8": {
       "type": "text"
+    },
+    "Answer1Title": {
+      "type": "string"
+    },
+    "Answer2Title": {
+      "type": "string"
+    },
+    "Answer3Title": {
+      "type": "string"
+    },
+    "Answer4Title": {
+      "type": "string"
+    },
+    "Answer5Title": {
+      "type": "string"
+    },
+    "Answer6Title": {
+      "type": "string"
+    },
+    "Answer7Title": {
+      "type": "string"
+    },
+    "Answer8Title": {
+      "type": "string"
     }
   }
 }
