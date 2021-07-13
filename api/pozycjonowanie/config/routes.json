@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/pozycjonowanie",
+      "handler": "pozycjonowanie.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/pozycjonowanie",
+      "handler": "pozycjonowanie.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/pozycjonowanie",
+      "handler": "pozycjonowanie.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
