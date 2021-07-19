@@ -1,9 +1,8 @@
 {
   "kind": "singleType",
-  "collectionName": "pozycjonowanies",
+  "collectionName": "realizacjes",
   "info": {
-    "name": "Pozycjonowanie",
-    "description": ""
+    "name": "Realizacje"
   },
   "options": {
     "increments": true,
@@ -14,9 +13,6 @@
   "attributes": {
     "MetaTitle": {
       "type": "string"
-    },
-    "HeroText": {
-      "type": "text"
     },
     "MetaDescription": {
       "type": "string"

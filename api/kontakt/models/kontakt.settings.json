@@ -1,9 +1,8 @@
 {
   "kind": "singleType",
-  "collectionName": "pozycjonowanies",
+  "collectionName": "kontakts",
   "info": {
-    "name": "Pozycjonowanie",
-    "description": ""
+    "name": "Kontakt"
   },
   "options": {
     "increments": true,
@@ -12,11 +11,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "MetaTitle": {
+    "MetaTittle": {
       "type": "string"
-    },
-    "HeroText": {
-      "type": "text"
     },
     "MetaDescription": {
       "type": "string"
